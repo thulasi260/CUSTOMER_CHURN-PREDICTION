@@ -25,19 +25,7 @@ Target Variable
 
 Tools and Technologies
 
-Python
-
-Pandas
-
-NumPy
-
-Matplotlib
-
-Seaborn
-
-Scikit-learn
-
-Jupyter Notebook / Google Colab
+Python|Pandas|NumPy|Matplotlib|Seaborn|Scikit-learn|Jupyter Notebook / Google Colab
 
 Project Workflow
 
