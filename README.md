@@ -1,4 +1,5 @@
 📉Customer Churn Prediction
+
 📌Project Overview
 
 Customer churn prediction helps businesses identify customers who are likely to stop using their services. In this project, a machine learning model is developed to predict whether a customer will churn based on customer demographics, account details, and service usage.
